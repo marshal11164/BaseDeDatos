@@ -1,2 +1,2 @@
 # BaseDeDatos
-Pablo Javega, Reinaldo Calderon
+Pablo Javega, Reinaldo Calderón
