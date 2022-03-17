@@ -43,3 +43,27 @@
 <img src="https://i.imgur.com/gZfpbA6.png" alt="percona" title="percona" width="3000"/>
 
 >**dnf update**
+### Informacion Adicional
+#### Instalacion de Seguridad
+
+<img src="https://i.imgur.com/PN1aXjC.png" alt="percona" title="percona" width="3000"/>
+
+<img src="https://i.imgur.com/wQdOqrH.png" alt="percona" title="percona" width="3000"/>
+
+<img src="https://i.imgur.com/2mCL4hB.png" alt="percona" title="percona" width="3000"/>
+
+**No se puede poner "patata" porque no cumple los requisitos minimos establecidos**
+
+#### Comandos para verificar el estado del servidor
+##### Iniciar Server
+<img src="https://i.imgur.com/J87B1w7.png" alt="percona" title="percona" width="3000"/>
+
+##### Ver el estado
+<img src="https://i.imgur.com/9MnjvHF.png" alt="percona" title="percona" width="3000"/>
+
+##### Parar el server
+<img src="https://i.imgur.com/x09sUT9.png" alt="percona" title="percona" width="3000"/>
+
+#### Archivo de configuracion del Percona Server
+
+<img src="https://i.imgur.com/HHXSnb4.png" alt="percona" title="percona" width="30000"/>
