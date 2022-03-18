@@ -86,4 +86,10 @@
 
 <img src="https://i.imgur.com/cmIKHJZ.png" alt="percona" title="percona" width="30000"/>
 
+<img src="https://i.imgur.com/ZWLR98c.png" alt="percona" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/KgZmEfC.png" alt="percona" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/egmbNu2.png" alt="percona" title="percona" width="30000"/>
+
 #### Links de interes
