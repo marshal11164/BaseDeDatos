@@ -21,6 +21,7 @@
         - [En maquina](#en-maquina)
         - [En mysql](#en-mysql)
       - [Cambiar de puerto](#cambiar-de-puerto)
+      - [Comprovacion](#comprovacion)
       - [Links de interes](#links-de-interes)
 
 
@@ -116,6 +117,10 @@
 <img src="https://i.imgur.com/UR9ehII.png" alt="percona" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/V54UbRL.png" alt="percona" title="percona" width="30000"/>
+
+#### Comprovacion
+
+<img src="https://i.imgur.com/PViF1UH.png" alt="percona" title="percona" width="30000"/>
 
 #### Links de interes
 https://www.percona.com/doc/percona-server/8.0/installation/yum_repo.html
