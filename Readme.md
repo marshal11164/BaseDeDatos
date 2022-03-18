@@ -2,7 +2,26 @@
 ## Pablo Javega y Reinaldo Calderon
 <img src="https://i.imgur.com/Da0DSyG.png" alt="percona" title="percona" width="300"/>
 
+# Index
 
+- [Practica Instalacion De Percona Server](#practica-instalacion-de-percona-server)
+  - [Pablo Javega y Reinaldo Calderon](#pablo-javega-y-reinaldo-calderon)
+- [Index](#index)
+    - [Instalacion de Percona Server](#instalacion-de-percona-server)
+      - [Posible solucion por si no deja ejecutar el comando de instalacion](#posible-solucion-por-si-no-deja-ejecutar-el-comando-de-instalacion)
+    - [Informacion Adicional](#informacion-adicional)
+      - [Instalacion de Seguridad](#instalacion-de-seguridad)
+      - [Comandos para verificar el estado del servidor](#comandos-para-verificar-el-estado-del-servidor)
+        - [Iniciar Server](#iniciar-server)
+        - [Ver el estado](#ver-el-estado)
+        - [Parar el server](#parar-el-server)
+      - [Archivo de configuracion del Percona Server](#archivo-de-configuracion-del-percona-server)
+      - [Localizacion de los archivos de datos](#localizacion-de-los-archivos-de-datos)
+      - [Crear Usuario](#crear-usuario)
+        - [En maquina](#en-maquina)
+        - [En mysql](#en-mysql)
+      - [Cambiar de puerto](#cambiar-de-puerto)
+      - [Links de interes](#links-de-interes)
 
 
 
@@ -91,6 +110,12 @@
 <img src="https://i.imgur.com/KgZmEfC.png" alt="percona" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/egmbNu2.png" alt="percona" title="percona" width="30000"/>
+
+#### Cambiar de puerto
+
+<img src="https://i.imgur.com/UR9ehII.png" alt="percona" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/V54UbRL.png" alt="percona" title="percona" width="30000"/>
 
 #### Links de interes
 https://www.percona.com/doc/percona-server/8.0/installation/yum_repo.html
