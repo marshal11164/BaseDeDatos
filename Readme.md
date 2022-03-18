@@ -4,7 +4,7 @@
 
 # Index
 
-- [Practica Instalacion De Percona Server](#practica-instalacion-de-percona-server)
+- [Instalació De Percona Server](#instalació-de-percona-server)
   - [Pablo Javega y Reinaldo Calderon](#pablo-javega-y-reinaldo-calderon)
 - [Index](#index)
     - [Instalacion de Percona Server](#instalacion-de-percona-server)
