@@ -87,3 +87,9 @@
 <img src="https://i.imgur.com/cmIKHJZ.png" alt="percona" title="percona" width="30000"/>
 
 #### Links de interes
+https://www.percona.com/doc/percona-server/8.0/installation/yum_repo.html
+https://www.percona.com/doc/percona-server/LATEST/installation/post-installation.html
+https://tecadmin.net/change-mysql-password-policy-level/
+https://www.a2hosting.com.co/kb/developer-corner/mysql/reset-mysql-root-password
+https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?trk=public_profile_article_view
+
