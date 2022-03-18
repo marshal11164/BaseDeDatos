@@ -67,3 +67,33 @@
 #### Archivo de configuracion del Percona Server
 
 <img src="https://i.imgur.com/HHXSnb4.png" alt="percona" title="percona" width="30000"/>
+
+#### Localizacion de los archivos de datos
+
+<img src="https://i.imgur.com/civySf8.png" alt="percona" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/wroWRlA.png" alt="percona" title="percona" width="30000"/>
+
+#### Crear Usuario
+
+##### En maquina
+
+<img src="https://i.imgur.com/tI5uN3F.png" alt="percona" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/v5DswT1.png" alt="percona" title="percona" width="30000"/>
+
+##### En mysql
+
+<img src="https://i.imgur.com/cmIKHJZ.png" alt="percona" title="percona" width="30000"/>
+
+
+
+
+
+
+
+
+
+
+
+#### Links de interes
