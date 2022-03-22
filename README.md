@@ -1,2 +1,3 @@
-# BaseDeDatos
-Pablo Javega, Reinaldo Calderón
+# Instalacion Mysql
+
+## Pablo Javega, Reinaldo Calderón
