@@ -20,6 +20,7 @@
       - [Crear Usuari](#crear-usuari)
         - [A màquina](#a-màquina)
         - [A mysql](#a-mysql)
+        - [AutoLogin](#autologin)
       - [Cambiar el port](#cambiar-el-port)
       - [Links de interès](#links-de-interès)
 
@@ -110,6 +111,16 @@
 <img src="https://i.imgur.com/KgZmEfC.png" alt="percona" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/egmbNu2.png" alt="percona" title="percona" width="30000"/>
+
+##### AutoLogin
+
+<img src="https://i.imgur.com/Q07SmoA.png" alt="percona" title="percona" width="30000"/>
+
+> Entramos al archivo de configuracion ubicado en : /etc/my.cnf. Y colocamos el siguiente codigo:
+
+**[client]**
+**user = asix**
+**password = patata**
 
 #### Cambiar el port
 
