@@ -128,7 +128,15 @@
 
 <img src="https://i.imgur.com/UR9ehII.png" alt="percona" title="percona" width="30000"/>
 
+>Primero tendremos que parar el servicio.
+
+
+>
 <img src="https://i.imgur.com/V54UbRL.png" alt="percona" title="percona" width="30000"/>
+
+>Y tendriamos que abrir el archivo de configuracion y añadirle la siguiente linea al final del archivo.
+ 
+
 
 #### Links de interès
 https://www.percona.com/doc/percona-server/8.0/installation/yum_repo.html
