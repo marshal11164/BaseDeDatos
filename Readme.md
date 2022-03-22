@@ -143,7 +143,6 @@
 >Primero tendremos que parar el servicio.
 
 
->
 <img src="https://i.imgur.com/V54UbRL.png" alt="percona" title="percona" width="30000"/>
 
 >Y tendriamos que abrir el archivo de configuracion y añadirle la siguiente linea al final del archivo.
