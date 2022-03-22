@@ -124,6 +124,18 @@
 
 >**password = patata**
 
+<img src="https://i.imgur.com/YOwPP3n.png" alt="percona" title="percona" width="30000"/>
+
+>Ahora para poder iniciar automaticamente en mysql, tendremos que darle permisos al usuarios asix
+
+<img src="https://i.imgur.com/Wi0pl5F.png" alt="percona" title="percona" width="30000"/>
+
+> tendremos que buscar en el archivo la siguiente frasse:
+>**Allow root to run any commands anywhere**
+>Y añadir el usuario asix
+
+<img src="https://i.imgur.com/J7T6OJx.png" alt="percona" title="percona" width="30000"/>
+
 #### Cambiar el port
 
 <img src="https://i.imgur.com/UR9ehII.png" alt="percona" title="percona" width="30000"/>
