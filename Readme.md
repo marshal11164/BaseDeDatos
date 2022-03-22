@@ -118,11 +118,11 @@
 
 > Entramos al archivo de configuracion ubicado en : /etc/my.cnf. Y colocamos el siguiente codigo:
 
-**[client]**
+>**[Client]**
 
-**user = asix**
+>**user = asix**
 
-**password = patata**
+>**password = patata**
 
 #### Cambiar el port
 
