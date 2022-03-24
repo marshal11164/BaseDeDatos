@@ -81,7 +81,7 @@
 ##### Veure l'estat
 <img src="https://i.imgur.com/9MnjvHF.png" alt="percona" title="percona" width="3000"/>
 
-##### Parar el Server
+##### Aturar el Server
 <img src="https://i.imgur.com/x09sUT9.png" alt="percona" title="percona" width="3000"/>
 
 #### Arxiu de configuració del Percona Server
@@ -116,7 +116,7 @@
 
 <img src="https://i.imgur.com/Q07SmoA.png" alt="percona" title="percona" width="30000"/>
 
-> Entramos al archivo de configuracion ubicado en : /etc/my.cnf. Y colocamos el siguiente codigo:
+> Entrem a l'arxiu de configuració ubicat a: "/etc/my.cnf" i afegim el codi següent:
 
 >**[Client]**
 
@@ -126,13 +126,13 @@
 
 <img src="https://i.imgur.com/YOwPP3n.png" alt="percona" title="percona" width="30000"/>
 
->Ahora para poder iniciar automaticamente en mysql, tendremos que darle permisos al usuarios asix
+>Un cop fet això, per poder iniciar sessió automàticament a mysql, haurem de donar-li permisos a l'usuari "asix".
 
 <img src="https://i.imgur.com/Wi0pl5F.png" alt="percona" title="percona" width="30000"/>
 
-> tendremos que buscar en el archivo la siguiente frasse:
+> Haurem de buscar a l'arxiu la línia següent:
 >**Allow root to run any commands anywhere**
->Y añadir el usuario asix
+>I afegir-hi l'usuari "asix".
 
 <img src="https://i.imgur.com/J7T6OJx.png" alt="percona" title="percona" width="30000"/>
 
@@ -140,13 +140,12 @@
 
 <img src="https://i.imgur.com/UR9ehII.png" alt="percona" title="percona" width="30000"/>
 
->Primero tendremos que parar el servicio.
+>Abans de res harem d'aturar el servei.
 
 
 <img src="https://i.imgur.com/V54UbRL.png" alt="percona" title="percona" width="30000"/>
 
->Y tendriamos que abrir el archivo de configuracion y añadirle la siguiente linea al final del archivo.
- 
+>Un cop fet això, obrim l'arxiu de configuració i hi afegim la línia següent al final e l'arxiu.
 
 
 #### Links de interès
