@@ -10,11 +10,12 @@
     - [Instalacion de Percona Server](#instalacion-de-percona-server)
       - [Possible solució en cas de que no deixi executar la comanda de instal·lació](#possible-solució-en-cas-de-que-no-deixi-executar-la-comanda-de-installació)
     - [Informació Addicional](#informació-addicional)
+      - [Consegir la contraseña de root temporal](#consegir-la-contraseña-de-root-temporal)
       - [Instalació de Seguretat](#instalació-de-seguretat)
       - [Comandes per verificar l'estat del servidor](#comandes-per-verificar-lestat-del-servidor)
         - [Iniciar Server](#iniciar-server)
         - [Veure l'estat](#veure-lestat)
-        - [Parar el Server](#parar-el-server)
+        - [Aturar el Server](#aturar-el-server)
       - [Arxiu de configuració del Percona Server](#arxiu-de-configuració-del-percona-server)
       - [Ubicació dels arxius de dades](#ubicació-dels-arxius-de-dades)
       - [Crear Usuari](#crear-usuari)
@@ -62,8 +63,18 @@
 
 <img src="https://i.imgur.com/gZfpbA6.png" alt="percona" title="percona" width="3000"/>
 
+
 >**dnf update**
 ### Informació Addicional
+
+#### Consegir la contraseña de root temporal
+
+<img src="https://i.imgur.com/LF9ufRq.png" alt="percona" title="percona" width="3000"/>
+
+>Para consegir la contraseña tendremos que poner este comando: **cat /var/log/mysqld.log |grep generated**, que lo que hace es
+>buscar en los logs la contraseña>Para consegir la contraseña tendremos que poner este comando: **cat /var/log/mysqld.log |grep generated**, que lo que hace es
+>buscar en los logs la contraseña
+
 #### Instalació de Seguretat
 
 <img src="https://i.imgur.com/PN1aXjC.png" alt="percona" title="percona" width="3000"/>
