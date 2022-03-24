@@ -10,7 +10,7 @@
     - [Instalacion de Percona Server](#instalacion-de-percona-server)
       - [Possible solució en cas de que no deixi executar la comanda de instal·lació](#possible-solució-en-cas-de-que-no-deixi-executar-la-comanda-de-installació)
     - [Informació Addicional](#informació-addicional)
-      - [Consegir la contraseña de root temporal](#consegir-la-contraseña-de-root-temporal)
+      - [Obtenir la contrasenya de root temporal](#obtenir-la-contrasenya-de-root-temporal)
       - [Instalació de Seguretat](#instalació-de-seguretat)
       - [Comandes per verificar l'estat del servidor](#comandes-per-verificar-lestat-del-servidor)
         - [Iniciar Server](#iniciar-server)
