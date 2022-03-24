@@ -67,13 +67,11 @@
 >**dnf update**
 ### Informació Addicional
 
-#### Consegir la contraseña de root temporal
+#### Obtenir la contrasenya de root temporal
 
 <img src="https://i.imgur.com/LF9ufRq.png" alt="percona" title="percona" width="3000"/>
 
->Para consegir la contraseña tendremos que poner este comando: **cat /var/log/mysqld.log |grep generated**, que lo que hace es
->buscar en los logs la contraseña>Para consegir la contraseña tendremos que poner este comando: **cat /var/log/mysqld.log |grep generated**, que lo que hace es
->buscar en los logs la contraseña
+>Per obtenir la contrasenya temporal haurem d'executar la comanda següent: **cat /var/log/mysqld.log |grep generated**, que el que fa és buscar la contrasenya en els logs.
 
 #### Instalació de Seguretat
 
