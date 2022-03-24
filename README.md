@@ -2,6 +2,18 @@
 
 ## Pablo Javega, Reinaldo Calderón
 
+# Index
+
+- [Instalacion Mysql](#instalacion-mysql)
+  - [Pablo Javega, Reinaldo Calderón](#pablo-javega-reinaldo-calderón)
+- [Index](#index)
+- [Instalacion](#instalacion)
+- [Ubicacion de los archivos del msql](#ubicacion-de-los-archivos-del-msql)
+  - [Archivos de datos](#archivos-de-datos)
+  - [Archivo de configuracion](#archivo-de-configuracion)
+- [Cambiar el puerto](#cambiar-el-puerto)
+- [Comprovacion](#comprovacion)
+
 <img src="https://i.imgur.com/Zr6ZgP4.png" alt="mysql" title="percona" width="300"/>
 
 # Instalacion
@@ -40,3 +52,19 @@
 <img src="https://i.imgur.com/sCMF76k.png" alt="mysql" title="percona" width="30000"/>
 
 # Cambiar el puerto
+
+<img src="https://i.imgur.com/UR9ehII.png" alt="mysql" title="percona" width="30000"/>
+
+> Primero tendremos que parar el servicio
+
+<img src="https://i.imgur.com/V54UbRL.png" alt="mysql" title="percona" width="30000"/>
+
+> Y tendriamos que añadir lo siguiente en el archivo de configuracion: **port= 33306**.
+> Pero como el mysql el archivo de configuracion esta vinculado a otros archivos tendriamos que añadirlo en este:
+> **/etc/my.cnf.d/mysql-server.cnf**
+
+<img src="https://i.imgur.com/AbZF3sR.png" alt="mysql" title="percona" width="30000"/>
+
+# Comprovacion
+
+<img src="https://i.imgur.com/b2OcwCZ.png" alt="mysql" title="percona" width="30000"/>
