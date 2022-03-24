@@ -4,15 +4,15 @@
 
 # índex
 
-- [Instalacion Mysql](#instalacion-mysql)
+- [Instalació Mysql](#instalació-mysql)
   - [Pablo Javega, Reinaldo Calderón](#pablo-javega-reinaldo-calderón)
-- [Index](#index)
-- [Instalacion](#instalacion)
-- [Ubicacion de los archivos del msql](#ubicacion-de-los-archivos-del-msql)
-  - [Archivos de datos](#archivos-de-datos)
-  - [Archivo de configuracion](#archivo-de-configuracion)
-- [Cambiar el puerto](#cambiar-el-puerto)
-- [Comprovacion](#comprovacion)
+- [índex](#índex)
+- [Instal·lació](#installació)
+- [Ubicació dels arxius del mysql](#ubicació-dels-arxius-del-mysql)
+  - [Arxius de dades](#arxius-de-dades)
+  - [Arxiu de configuració](#arxiu-de-configuració)
+- [Cambiar el port](#cambiar-el-port)
+- [Comprovació](#comprovació)
 
 <img src="https://i.imgur.com/Zr6ZgP4.png" alt="mysql" title="percona" width="300"/>
 
