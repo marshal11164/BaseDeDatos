@@ -27,7 +27,7 @@
 
 
 
-### Instalacion de Percona Server
+### Instalació de Percona Server
 <img src="https://i.imgur.com/9se8QTU.png" alt="percona" title="percona" width="3000"/>
 
 > Obtenim el repositori amb la comanda seguent:
