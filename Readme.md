@@ -7,7 +7,7 @@
 - [Instalació De Percona Server](#instalació-de-percona-server)
   - [Pablo Javega y Reinaldo Calderon](#pablo-javega-y-reinaldo-calderon)
 - [Index](#index)
-    - [Instalacion de Percona Server](#instalacion-de-percona-server)
+    - [Instalació de Percona Server](#instalació-de-percona-server-1)
       - [Possible solució en cas de que no deixi executar la comanda de instal·lació](#possible-solució-en-cas-de-que-no-deixi-executar-la-comanda-de-installació)
     - [Informació Addicional](#informació-addicional)
       - [Obtenir la contrasenya de root temporal](#obtenir-la-contrasenya-de-root-temporal)
@@ -132,16 +132,6 @@
 >**user = asix**
 
 >**password = patata**
-
-<img src="https://i.imgur.com/YOwPP3n.png" alt="percona" title="percona" width="30000"/>
-
->Un cop fet això, per poder iniciar sessió automàticament a mysql, haurem de donar-li permisos a l'usuari "asix".
-
-<img src="https://i.imgur.com/Wi0pl5F.png" alt="percona" title="percona" width="30000"/>
-
-> Haurem de buscar a l'arxiu la línia següent:
->**Allow root to run any commands anywhere**
->I afegir-hi l'usuari "asix".
 
 <img src="https://i.imgur.com/J7T6OJx.png" alt="percona" title="percona" width="30000"/>
 
