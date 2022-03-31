@@ -23,5 +23,18 @@
 
 <img src="https://i.imgur.com/XPRp7EX.png" alt="mysql" title="percona" width="30000"/>
 
-## Desactivar Log Binary
+## Desactivar Log Binary, Slow query y General log
 
+<img src="https://i.imgur.com/FDrAZh5.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/IFp93wp.png" alt="mysql" title="percona" width="30000"/>
+
+## Activar Log Binary, Slow query y General log
+
+### General Log
+
+<img src="https://i.imgur.com/RXrxPq0.png" alt="mysql" title="percona" width="30000"/>
+
+### Slow Query Log
+
+<img src="https://i.imgur.com/Dhn3DkF.png" alt="mysql" title="percona" width="30000"/>
