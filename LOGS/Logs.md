@@ -38,3 +38,9 @@
 ### Slow Query Log
 
 <img src="https://i.imgur.com/Dhn3DkF.png" alt="mysql" title="percona" width="30000"/>
+
+### Binary log
+
+<img src="https://i.imgur.com/t5FTm2z.png" alt="mysql" title="percona" width="30000"/>
+
+>Para activar el binary log  no se puede con un **Set_Global**, porque ya tiene uno por defecto activado
