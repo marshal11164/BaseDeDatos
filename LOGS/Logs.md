@@ -44,7 +44,7 @@
 <img src="https://i.imgur.com/t5FTm2z.png" alt="mysql" title="percona" width="30000"/>
 
 >Para activar el binary log  no se puede con un **Set_Global**, porque ya tiene uno por defecto activado
-
+>Solo se puede modificar por archivos.
 ## Sakila
 ### Mirar el numero de tablas que ha creado
 
@@ -55,4 +55,38 @@
 <img src="https://i.imgur.com/OvEiFEr.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/Mk7GWh7.png" alt="mysql" title="percona" width="30000"/>
+
+### Binary Log
+
+#### Crear tabla foo
+
+<img src="https://i.imgur.com/lWzEJrd.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/tG3yxXt.png" alt="mysql" title="percona" width="30000"/>
+
+#### Flush Logs
+
+<img src="https://i.imgur.com/s4pEQA0.png" alt="mysql" title="percona" width="30000"/>
+
+>Elimina el interior de los logs
+
+#### Crear tabla bar
+
+<img src="https://i.imgur.com/0wNzTHK.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/HiOiNnQ.png" alt="mysql" title="percona" width="30000"/>
+
+#### Esborrar binary log
+
+<img src="https://i.imgur.com/jq7dDjt.png" alt="mysql" title="percona" width="30000"/>
+
+#### mysqlbinlog
+
+<img src="https://i.imgur.com/Viga9V9.png" alt="mysql" title="percona" width="30000"/>
+
+### Desactivar log binary en una sesion concreta
+
+<img src="https://i.imgur.com/IcTFBbQ.jpg" alt="mysql" title="percona" width="30000"/>
+
+> No se puede ya que la variable **log_bin** es solo de lectura
 
