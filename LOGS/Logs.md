@@ -1,15 +1,15 @@
 # LOGS
-## Pablo Javega y Reinaldo Calderon
+## Pablo Javega i Reinaldo Calderón
 
 <img src="https://i.imgur.com/wCqEt29.png" alt="mysql" title="percona" width="300"/>
 
 # Logs
-## Comprovacion de Logs activados por defecto
+## Comprovació dels Logs activats per defecte
 
 <img src="https://i.imgur.com/gb7Mshs.png" alt="mysql" title="percona" width="30000"/>
 
->Por defecto siempre viene activado el log de errores, que se ubica en **/var/log/mysqld.log**
-## Activacion de logs
+>Per defecte sempre està activat el log de errors, que es troba a **/var/log/mysqld.log**
+## Activació de logs
 
 <img src="https://i.imgur.com/9r6bKTc.png" alt="mysql" title="percona" width="30000"/>
 
@@ -23,13 +23,13 @@
 
 <img src="https://i.imgur.com/XPRp7EX.png" alt="mysql" title="percona" width="30000"/>
 
-## Desactivar Log Binary, Slow query y General log
+## Desactivar Log Binary, Slow query i General log
 
 <img src="https://i.imgur.com/FDrAZh5.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/IFp93wp.png" alt="mysql" title="percona" width="30000"/>
 
-## Activar Log Binary, Slow query y General log
+## Activar Log Binary, Slow query i General log
 
 ### General Log
 
@@ -43,14 +43,13 @@
 
 <img src="https://i.imgur.com/t5FTm2z.png" alt="mysql" title="percona" width="30000"/>
 
->Para activar el binary log  no se puede con un **Set_Global**, porque ya tiene uno por defecto activado
->Solo se puede modificar por archivos.
+>No es pot activar el binary log amb un **Set_Global**, perquè es una variable que només es pot activar per arxiu. A més, ja ve activat de base.
 ## Sakila
-### Mirar el numero de tablas que ha creado
+### Mirar el nombre de taules creades
 
 <img src="https://i.imgur.com/2jCZyrY.png" alt="mysql" title="percona" width="30000"/>
 
-### Comprobar Slow query
+### Comprovar Slow query
 
 <img src="https://i.imgur.com/OvEiFEr.png" alt="mysql" title="percona" width="30000"/>
 
@@ -58,7 +57,7 @@
 
 ### Binary Log
 
-#### Crear tabla foo
+#### Crear taula foo
 
 <img src="https://i.imgur.com/lWzEJrd.png" alt="mysql" title="percona" width="30000"/>
 
@@ -68,15 +67,15 @@
 
 <img src="https://i.imgur.com/s4pEQA0.png" alt="mysql" title="percona" width="30000"/>
 
->Elimina el interior de los logs
+>Elimina el interior dels logs
 
-#### Crear tabla bar
+#### Crear taula bar
 
 <img src="https://i.imgur.com/0wNzTHK.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/HiOiNnQ.png" alt="mysql" title="percona" width="30000"/>
 
-#### Esborrar binary log
+#### Borrar binary log
 
 <img src="https://i.imgur.com/jq7dDjt.png" alt="mysql" title="percona" width="30000"/>
 
@@ -84,9 +83,9 @@
 
 <img src="https://i.imgur.com/Viga9V9.png" alt="mysql" title="percona" width="30000"/>
 
-### Desactivar log binary en una sesion concreta
+### Desactivar log binary en una sessió concreta
 
 <img src="https://i.imgur.com/IcTFBbQ.jpg" alt="mysql" title="percona" width="30000"/>
 
-> No se puede ya que la variable **log_bin** es solo de lectura
+> No es pot desactivar log binary en una sessió concreta perquè la variable **log_bin** és només de lectura.
 
