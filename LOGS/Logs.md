@@ -44,3 +44,15 @@
 <img src="https://i.imgur.com/t5FTm2z.png" alt="mysql" title="percona" width="30000"/>
 
 >Para activar el binary log  no se puede con un **Set_Global**, porque ya tiene uno por defecto activado
+
+## Sakila
+### Mirar el numero de tablas que ha creado
+
+<img src="https://i.imgur.com/2jCZyrY.png" alt="mysql" title="percona" width="30000"/>
+
+### Comprobar Slow query
+
+<img src="https://i.imgur.com/OvEiFEr.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/Mk7GWh7.png" alt="mysql" title="percona" width="30000"/>
+
