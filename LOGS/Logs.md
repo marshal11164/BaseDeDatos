@@ -67,7 +67,7 @@
 
 <img src="https://i.imgur.com/s4pEQA0.png" alt="mysql" title="percona" width="30000"/>
 
->Elimina el interior dels logs
+>Elimina l'interior dels logs
 
 #### Crear taula bar
 
