@@ -1,7 +1,31 @@
 # LOGS
 ## Pablo Javega i Reinaldo Calderón
 
+
 <img src="https://i.imgur.com/wCqEt29.png" alt="mysql" title="percona" width="300"/>
+
+# Index
+- [LOGS](#logs)
+  - [Pablo Javega i Reinaldo Calderón](#pablo-javega-i-reinaldo-calderón)
+- [Index](#index)
+- [Logs](#logs-1)
+  - [Comprovació dels Logs activats per defecte](#comprovació-dels-logs-activats-per-defecte)
+  - [Activació de logs](#activació-de-logs)
+  - [Desactivar Log Binary, Slow query i General log](#desactivar-log-binary-slow-query-i-general-log)
+  - [Activar Log Binary, Slow query i General log](#activar-log-binary-slow-query-i-general-log)
+    - [General Log](#general-log)
+    - [Slow Query Log](#slow-query-log)
+    - [Binary log](#binary-log)
+  - [Sakila](#sakila)
+    - [Mirar el nombre de taules creades](#mirar-el-nombre-de-taules-creades)
+    - [Comprovar Slow query](#comprovar-slow-query)
+    - [Binary Log](#binary-log-1)
+      - [Crear taula foo](#crear-taula-foo)
+      - [Flush Logs](#flush-logs)
+      - [Crear taula bar](#crear-taula-bar)
+      - [Borrar binary log](#borrar-binary-log)
+      - [mysqlbinlog](#mysqlbinlog)
+    - [Desactivar log binary en una sessió concreta](#desactivar-log-binary-en-una-sessió-concreta)
 
 # Logs
 ## Comprovació dels Logs activats per defecte
