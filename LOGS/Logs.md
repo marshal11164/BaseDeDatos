@@ -27,7 +27,7 @@
       - [mysqlbinlog](#mysqlbinlog)
     - [Desactivar log binary en una sessió concreta](#desactivar-log-binary-en-una-sessió-concreta)
 - [SSL](#ssl)
-  - [Configuracion](#configuracion)
+  - [Configuració](#configuració)
 
 # Logs
 ## Comprovació dels Logs activats per defecte
