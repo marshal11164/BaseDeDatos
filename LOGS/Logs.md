@@ -26,6 +26,8 @@
       - [Borrar binary log](#borrar-binary-log)
       - [mysqlbinlog](#mysqlbinlog)
     - [Desactivar log binary en una sessió concreta](#desactivar-log-binary-en-una-sessió-concreta)
+- [SSL](#ssl)
+  - [Configuracion](#configuracion)
 
 # Logs
 ## Comprovació dels Logs activats per defecte
@@ -113,3 +115,37 @@
 
 > No es pot desactivar log binary en una sessió concreta perquè la variable **log_bin** és només de lectura.
 
+# SSL
+
+## Configuracion
+
+<img src="https://i.imgur.com/auTSnDJ.png" alt="mysql" title="percona" width="30000"/>
+
+> Primero creamos la carpeta donde queremos guardar las keys y los certificado del **SSL**
+
+<img src="https://i.imgur.com/RjJanQ8.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/RTV3SIT.png" alt="mysql" title="percona" width="30000"/>
+
+> Despues creamos el certificado el server y del cliente y lo autocertificamos
+
+<img src="https://i.imgur.com/LKv9A2j.png" alt="mysql" title="percona" width="30000"/>
+
+>Despues tendremos que añadir las siguientes lineas a nuestro fichero **my.cnf**:
+>ssl
+
+>ssl-cipher=DHE-RSA-AES256-SHA
+
+>ssl-ca=/mysql_keys/ca-cert.pem
+
+>ssl-cert=/mysql_keys/server-cert.pem
+
+>ssl-key=/mysql_keys/server-key.pem
+
+>[client]
+
+>ssl-mode=REQUIRED
+
+>ssl-cert=/mysql_keys/client-cert.pem
+
+>ssl-key=/mysql_keys/client-key.pem
