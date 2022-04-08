@@ -117,21 +117,21 @@
 
 # SSL
 
-## Configuracion
+## Configuració
 
 <img src="https://i.imgur.com/auTSnDJ.png" alt="mysql" title="percona" width="30000"/>
 
-> Primero creamos la carpeta donde queremos guardar las keys y los certificado del **SSL**
+> Creem la carpeta ón volem emmagatzemar les keys i els certificats del **SSL**
 
 <img src="https://i.imgur.com/RjJanQ8.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/RTV3SIT.png" alt="mysql" title="percona" width="30000"/>
 
-> Despues creamos el certificado el server y del cliente y lo autocertificamos
+> A continuació creem el certificat del server i del client i l'autocertifiquem
 
 <img src="https://i.imgur.com/LKv9A2j.png" alt="mysql" title="percona" width="30000"/>
 
->Despues tendremos que añadir las siguientes lineas a nuestro fichero **my.cnf**:
+>Un cop fet això, haurem d'afegir les linies següents al fitxer **my.cnf**:
 >ssl
 
 >ssl-cipher=DHE-RSA-AES256-SHA
