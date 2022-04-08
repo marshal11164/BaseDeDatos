@@ -77,7 +77,7 @@
 
 <img src="https://i.imgur.com/OvEiFEr.png" alt="mysql" title="percona" width="30000"/>
 
-<img src="https://i.imgur.com/Mk7GWh7.png" alt="mysql" title="percona" width="30000"/>
+<img src="https://i.imgur.com/nXFz8It.png" alt="mysql" title="percona" width="30000"/>
 
 ### Binary Log
 
