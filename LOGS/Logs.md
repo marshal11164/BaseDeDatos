@@ -89,6 +89,8 @@
 
 <img src="https://i.imgur.com/tG3yxXt.png" alt="mysql" title="percona" width="30000"/>
 
+>**SHOW BINLOGS EVENTS**
+
 #### Flush Logs
 
 <img src="https://i.imgur.com/s4pEQA0.png" alt="mysql" title="percona" width="30000"/>
