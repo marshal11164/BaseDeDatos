@@ -25,3 +25,7 @@
 <img src="https://i.imgur.com/DYZjvHC.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/QMx1GzX.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/dtnsxw4.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/fC9fYB5.png" alt="mysql" title="percona" width="30000"/>
