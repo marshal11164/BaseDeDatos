@@ -31,3 +31,18 @@
 <img src="https://i.imgur.com/fC9fYB5.png" alt="mysql" title="percona" width="30000"/>
 
 ## Engine csv
+
+<img src="https://i.imgur.com/j55JPWX.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/u5oGiqe.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/3pQvbYn.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/Lfg825U.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/ahcQGVS.png" alt="mysql" title="percona" width="30000"/>
+
+> La ruta donde se guarndan las tablas por defecto es: /var/lib/mysql/basededatos
+
+## InnoDB
+
