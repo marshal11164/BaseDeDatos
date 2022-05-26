@@ -32,10 +32,10 @@ Editem el fitxer **master_backup.sql** que es troba a /tmp i busquem la línia q
 
 Parem el servei de MySQL.
 Modifiquem el fitxer de configuració **/etc/my.cnf**. Desactivem el log-bin afegint **disable-log-bin** i li assignem un valor de server_id diferent al del master afegint **server_id = (valor numeric diferent del master)**
-<img src="https://imgur.com/dk7ehph.png" alt="mysql" title="percona" width="30000"/>
+<img src="https://imgur.com/eocfVcu.png" alt="mysql" title="percona" width="30000"/>
 
 Borrem el fitxer **auto.cnf** per generar una nova UUID i que no coincideixi amb la del master.
-<img src="https://imgur.com/eocfVcu.png" alt="mysql" title="percona" width="30000"/>
+<img src=" https://imgur.com/dk7ehph.png" alt="mysql" title="percona" width="30000"/>
 
 Tornem a engegar el servei MySQL.
 
