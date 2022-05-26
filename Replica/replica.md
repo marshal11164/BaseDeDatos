@@ -47,6 +47,9 @@ Afegim l'usuari *slave* amb la IP de la màquina slave.
 >       -> IDENTIFIED BY 'P@ssw0rd';
 <img src="https://imgur.com/dXswz8N.png" alt="mysql" title="percona" width="30000"/>
 
+>mysql> ALTER USER 'slave'@'IP-SERVIDOR-SLAVE' IDENTIFIED WITH mysql_native_password BY 'P@ssw0rd';
+<img src="https://imgur.com/zuJf7Sd.png" alt="mysql" title="percona" width="30000"/>
+
 Afegim el permís de REPLICATION SLAVE a l'usuari que acabem de crear.
 >mysql> GRANT REPLICATION SLAVE ON \*.\*
 
