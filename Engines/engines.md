@@ -1,7 +1,6 @@
 # ENGINES STORAGES
 ## Pablo Javega i Reinaldo Calderón
 
-<img src="https://i.imgur.com/wCqEt29.png" alt="mysql" title="percona" width="300"/>
 
 # ENGINES STORAGES
 
@@ -46,3 +45,41 @@
 
 ## InnoDB
 
+> Exercici 4
+<img src="https://i.imgur.com/3wFhrN1.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/eY9waDp.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/FzgP4AE.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/IIiy8Uy.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/AB4wHOp.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/k7ZGEs7.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/oed7iI7.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/nO4ECDC.png" alt="mysql" title="percona" width="30000"/>
+
+> Exercici 5
+
+<img src="https://i.imgur.com/TSRi2nJ.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/RkNn2hX.png" alt="mysql" title="percona" width="30000"/>
+
+> Exercici 6
+
+<img src="https://i.imgur.com/oDmx9Z8.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/OJ2fC9k.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/9MPLRQq.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/J1UkX95.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/5u00eI1.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/w8FzCLu.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/0mBLUgw.png" alt="mysql" title="percona" width="30000"/>
