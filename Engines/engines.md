@@ -1,7 +1,6 @@
 # ENGINES STORAGES
 ## Pablo Javega i Reinaldo Calderón
 
-<img src="https://i.imgur.com/wCqEt29.png" alt="mysql" title="percona" width="300"/>
 
 # ENGINES STORAGES
 
