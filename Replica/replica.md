@@ -49,7 +49,9 @@ Afegim l'usuari *slave* amb la IP de la màquina slave.
 
 Afegim el permís de REPLICATION SLAVE a l'usuari que acabem de crear.
 >mysql> GRANT REPLICATION SLAVE ON \*.\*
+
 >       -> TO 'slave'@'IP-SERVIDOR-SLAVE';
+
 >mysql> FLUSH PRIVILEGES;
 <img src="https://imgur.com/uifJL7L.png" alt="mysql" title="percona" width="30000"/>
 
@@ -57,10 +59,15 @@ Afegim el permís de REPLICATION SLAVE a l'usuari que acabem de crear.
 
 Executem la següent comanda a MySQL:
 >mysql> CHANGE MASTER TO
+
 >      -> MASTER_HOST = '<ip-servidor-master>',
+
 >      -> MASTER_USER = 'slave',
+
 >      -> MASTER_PASSWORD = 'P@ssw0rd'
+
 >      -> MASTER_LOG_FILE = '<valor que hem apuntat anteriorment>,
+
 >      -> MASTER_LOG_POS = <valor que hem apuntat anteriorment>;
 
 <img src="https://imgur.com/WJmp796.png" alt="mysql" title="percona" width="30000"/>
