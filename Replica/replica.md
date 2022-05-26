@@ -35,7 +35,7 @@ Modifiquem el fitxer de configuració **/etc/my.cnf**. Desactivem el log-bin afe
 <img src="https://imgur.com/eocfVcu.png" alt="mysql" title="percona" width="30000"/>
 
 Borrem el fitxer **auto.cnf** per generar una nova UUID i que no coincideixi amb la del master.
-<img src=" https://imgur.com/dk7ehph.png" alt="mysql" title="percona" width="30000"/>
+<img src="https://imgur.com/dk7ehph.png" alt="mysql" title="percona" width="30000"/>
 
 Tornem a engegar el servei MySQL.
 
