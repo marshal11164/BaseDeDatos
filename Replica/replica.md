@@ -43,9 +43,14 @@ Afegim el permís de REPLICATION SLAVE a l'usuari que acabem de crear.
 
 Executem la següent comanda a MySQL:
 >mysql> CHANGE MASTER TO
+
 >      -> MASTER_HOST = '<ip-servidor-master>',
+
 >      -> MASTER_USER = 'slave',
+
 >      -> MASTER_PASSWORD = 'P@ssw0rd'
+
 >      -> MASTER_LOG_FILE = '<valor que hem apuntat anteriorment>,
+
 >      -> MASTER_LOG_POS = <valor que hem apuntat anteriorment>;
     
