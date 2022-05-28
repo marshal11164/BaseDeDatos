@@ -52,11 +52,11 @@
 
 <img src="https://i.imgur.com/IIiy8Uy.png" alt="mysql" title="percona" width="30000"/>
 
->Tamaño con la opcion activada (**innodb_file_per_table= ON**)
+>Mida amb la opció activada (**innodb_file_per_table= ON**)
 
 <img src="https://i.imgur.com/UuJttby.png" alt="mysql" title="percona" width="30000"/>
 
->Tamaño con la opcion desactivada (**innodb_file_per_table= OFF**)
+>Mida amb la opció desactivada (**innodb_file_per_table= OFF**)
 
 <img src="https://i.imgur.com/AB4wHOp.png" alt="mysql" title="percona" width="30000"/>
 
@@ -68,7 +68,7 @@
 
 <img src="https://i.imgur.com/a8DyM1y.png" alt="mysql" title="percona" width="30000"/>
 
->Una vez modificadon reiniciamos el servicio, y se creara automaticamente los archivos
+>Un com modificat, reiniciem el servei i ens crearà automàticament els arxius
 
 <img src="https://i.imgur.com/nO4ECDC.png" alt="mysql" title="percona" width="30000"/>
 
