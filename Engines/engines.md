@@ -52,15 +52,23 @@
 
 <img src="https://i.imgur.com/IIiy8Uy.png" alt="mysql" title="percona" width="30000"/>
 
->Tamaño con la opcion activada (**)
+>Tamaño con la opcion activada (**innodb_file_per_table= ON**)
 
 <img src="https://i.imgur.com/UuJttby.png" alt="mysql" title="percona" width="30000"/>
+
+>Tamaño con la opcion desactivada (**innodb_file_per_table= OFF**)
 
 <img src="https://i.imgur.com/AB4wHOp.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/k7ZGEs7.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/oed7iI7.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/bZct2bM.png" alt="mysql" title="percona" width="30000"/>
+
+<img src="https://i.imgur.com/a8DyM1y.png" alt="mysql" title="percona" width="30000"/>
+
+>Una vez modificadon reiniciamos el servicio, y se creara automaticamente los archivos
 
 <img src="https://i.imgur.com/nO4ECDC.png" alt="mysql" title="percona" width="30000"/>
 
