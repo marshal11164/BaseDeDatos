@@ -50,9 +50,11 @@
 
 <img src="https://i.imgur.com/eY9waDp.png" alt="mysql" title="percona" width="30000"/>
 
-<img src="https://i.imgur.com/FzgP4AE.png" alt="mysql" title="percona" width="30000"/>
-
 <img src="https://i.imgur.com/IIiy8Uy.png" alt="mysql" title="percona" width="30000"/>
+
+>Tamaño con la opcion activada (**)
+
+<img src="https://i.imgur.com/UuJttby.png" alt="mysql" title="percona" width="30000"/>
 
 <img src="https://i.imgur.com/AB4wHOp.png" alt="mysql" title="percona" width="30000"/>
 
